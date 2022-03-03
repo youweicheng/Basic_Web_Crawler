@@ -1,8 +1,11 @@
 ## Basic_Web_Crawler
 
- 1. in this repository, I will demontrate basic web crawler knowledge
+ A. in this repository, I will demontrate basic web crawler knowledge
 
- 2. there are packages about urllib, cookies and mock_login 
+ B. there are packages about urllib, cookies and mock_login 
+ 
+ ***
+ 
+ 1. real_url : basic way to read a url , and output response, data , and write file: google.html
 
-<font color=#FFD700> 紅色
-</font>
+
