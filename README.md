@@ -15,3 +15,8 @@
  4. request_header : how to add headers and get full url, response and request headers 
 
  5. random_user_agent : how to add multiple user-agent and choose randomly everytime.
+ 
+ 6. handler_opener : use handler and opener to get data
+
+
+
