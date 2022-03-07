@@ -13,3 +13,5 @@
  3. get_params_2 : facing dict_params, we use urllib.parse.urlencode(parmas) to parse them to url string
 
  4. request_header : how to add headers and get full url, response and request headers 
+
+ 5. random_user_agent : how to add multiple user-agent and choose randomly everytime.
