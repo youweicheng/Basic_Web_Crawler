@@ -18,5 +18,7 @@
  
  6. handler_opener : use handler and opener to get data
 
+ 7. proxy_handler : use proxy ip to get data
+
 
 
