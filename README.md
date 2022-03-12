@@ -22,4 +22,6 @@
 
  8. multi_proxy : create multiple proxy and get data
 
+ 9. paid_proxy_handler : two ways to add paid proxy ip
+
 
