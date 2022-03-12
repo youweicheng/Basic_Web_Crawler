@@ -20,5 +20,6 @@
 
  7. proxy_handler : use proxy ip to get data
 
+ 8. multi_proxy : create multiple proxy and get data
 
 
