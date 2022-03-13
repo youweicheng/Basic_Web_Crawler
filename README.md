@@ -24,4 +24,6 @@
 
  9. paid_proxy_handler : two ways to add paid proxy ip
 
+ 10. auth_use : use for Intranet
+
 
