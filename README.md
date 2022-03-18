@@ -30,3 +30,5 @@
 
  12. cookies_2 : add cookies by hand
 
+ 13. cookies_3 : use cookiejar to add cookies automatically
+
