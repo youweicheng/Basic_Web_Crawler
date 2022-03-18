@@ -28,3 +28,5 @@
 
  11. cookies_1 : quick review for adding cookies
 
+ 12. cookies_2 : add cookies by hand
+
