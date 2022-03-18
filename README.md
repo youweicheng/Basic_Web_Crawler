@@ -32,3 +32,5 @@
 
  13. cookies_3 : use cookiejar to add cookies automatically
 
+ 14. Errors : urllib.request Errors : HTTPError / URLError
+
