@@ -38,3 +38,5 @@
 
  16. requests_use2 : get info from requests package
 
+ 17. requests.use3 : use requests with params
+
