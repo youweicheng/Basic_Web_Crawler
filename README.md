@@ -38,5 +38,7 @@
 
  16. requests_use2 : get info from requests package
 
- 17. requests.use3 : use requests with params
+ 17. requests_use3 : use requests with params
+
+ 18. requests_use4 : use json function to turn str into dict
 
