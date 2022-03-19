@@ -36,3 +36,5 @@
 
  15. requests_use : introduction of requests package
 
+ 16. requests_use2 : get info from requests package
+
