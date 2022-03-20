@@ -42,3 +42,5 @@
 
  18. requests_use4 : use json function to turn str into dict
 
+ 19.requests_auth : post request and auth request
+
