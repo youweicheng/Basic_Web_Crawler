@@ -45,3 +45,5 @@
  19. requests_auth : post request and auth request
 
  20. requests_proxy : use free proxy on requests package
+
+ 21. requests_ssl : deal with requests.exceptions.SSLError issue
