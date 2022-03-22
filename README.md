@@ -47,3 +47,5 @@
  20. requests_proxy : use free proxy on requests package
 
  21. requests_ssl : deal with requests.exceptions.SSLError issue
+
+ 22. requests_cookies : add cookies on requests package
