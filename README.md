@@ -49,3 +49,5 @@
  21. requests_ssl : deal with requests.exceptions.SSLError issue
 
  22. requests_cookies : add cookies on requests package
+ 
+ 23. requests_cookies2 : use session to add cookies
